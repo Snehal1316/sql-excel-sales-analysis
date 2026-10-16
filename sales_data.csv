@@ -1,0 +1,241 @@
+OrderID,OrderDate,Region,Channel,Product,Category,Quantity,UnitPrice,DiscountPct,Sales,Cost,Profit
+ORD0193,2025-01-02,Central,Retail,27-inch Monitor,Monitors,5,14500,0.1,65250.0,56000,9250.0
+ORD0102,2025-01-04,North,Retail,USB-C Hub,Accessories,2,1450,0.1,2610.0,1800,810.0
+ORD0078,2025-01-05,East,Partner,External HDD 2TB,Storage,3,4900,0.0,14700.0,10800,3900.0
+ORD0112,2025-01-05,West,Retail,Budget Laptop,Computers,4,38500,0.0,154000.0,124000,30000.0
+ORD0033,2025-01-06,South,Retail,Laptop Stand,Accessories,5,950,0.15,4037.5,2700,1337.5
+ORD0084,2025-01-09,West,Online,Business Laptop,Computers,1,58000,0.0,58000.0,46500,11500.0
+ORD0157,2025-01-09,East,Retail,Laptop Stand,Accessories,1,950,0.05,902.5,540,362.5
+ORD0215,2025-01-09,North,Online,External HDD 2TB,Storage,3,4900,0.1,13230.0,10800,2430.0
+ORD0132,2025-01-13,North,Retail,Budget Laptop,Computers,1,38500,0.1,34650.0,31000,3650.0
+ORD0173,2025-01-13,South,Partner,Wireless Mouse,Accessories,2,650,0.15,1105.0,780,325.0
+ORD0039,2025-01-14,North,Retail,Budget Laptop,Computers,2,38500,0.0,77000.0,62000,15000.0
+ORD0114,2025-01-14,East,Partner,Mechanical Keyboard,Accessories,1,1800,0.0,1800.0,1150,650.0
+ORD0029,2025-01-15,West,Online,Headset,Accessories,2,1600,0.15,2720.0,1960,760.0
+ORD0124,2025-01-16,Central,Partner,Laptop Stand,Accessories,3,950,0.0,2850.0,1620,1230.0
+ORD0175,2025-01-16,South,Online,Wireless Mouse,Accessories,5,650,0.15,2762.5,1950,812.5
+ORD0043,2025-01-18,East,Retail,Webcam HD,Accessories,3,2100,0.05,5985.0,4350,1635.0
+ORD0061,2025-01-19,West,Retail,External HDD 2TB,Storage,2,4900,0.05,9310.0,7200,2110.0
+ORD0208,2025-01-19,East,Online,USB-C Hub,Accessories,2,1450,0.1,2610.0,1800,810.0
+ORD0088,2025-01-20,South,Retail,USB-C Hub,Accessories,4,1450,0.15,4930.0,3600,1330.0
+ORD0159,2025-01-20,West,Retail,External HDD 2TB,Storage,1,4900,0.15,4165.0,3600,565.0
+ORD0110,2025-01-21,South,Online,Laptop Stand,Accessories,2,950,0.05,1805.0,1080,725.0
+ORD0072,2025-01-28,East,Partner,Mechanical Keyboard,Accessories,4,1800,0.15,6120.0,4600,1520.0
+ORD0240,2025-01-29,East,Online,Webcam HD,Accessories,2,2100,0.0,4200.0,2900,1300.0
+ORD0005,2025-02-01,South,Partner,USB-C Hub,Accessories,3,1450,0.0,4350.0,2700,1650.0
+ORD0237,2025-02-02,North,Retail,27-inch Monitor,Monitors,1,14500,0.0,14500.0,11200,3300.0
+ORD0075,2025-02-06,Central,Retail,Headset,Accessories,1,1600,0.05,1520.0,980,540.0
+ORD0125,2025-02-07,East,Partner,Business Laptop,Computers,2,58000,0.1,104400.0,93000,11400.0
+ORD0018,2025-02-08,North,Partner,Headset,Accessories,5,1600,0.1,7200.0,4900,2300.0
+ORD0054,2025-02-09,West,Online,Business Laptop,Computers,1,58000,0.15,49300.0,46500,2800.0
+ORD0060,2025-02-10,East,Online,27-inch Monitor,Monitors,2,14500,0.0,29000.0,22400,6600.0
+ORD0165,2025-02-10,South,Online,Business Laptop,Computers,4,58000,0.05,220400.0,186000,34400.0
+ORD0230,2025-02-11,South,Online,Laptop Stand,Accessories,3,950,0.15,2422.5,1620,802.5
+ORD0196,2025-02-13,East,Partner,24-inch Monitor,Monitors,1,9800,0.0,9800.0,7400,2400.0
+ORD0066,2025-02-14,West,Online,USB-C Hub,Accessories,1,1450,0.1,1305.0,900,405.0
+ORD0202,2025-02-15,East,Partner,Business Laptop,Computers,2,58000,0.1,104400.0,93000,11400.0
+ORD0174,2025-02-16,Central,Partner,24-inch Monitor,Monitors,2,9800,0.05,18620.0,14800,3820.0
+ORD0086,2025-02-17,Central,Online,External SSD 1TB,Storage,2,6200,0.05,11780.0,9400,2380.0
+ORD0232,2025-02-19,West,Online,Headset,Accessories,2,1600,0.0,3200.0,1960,1240.0
+ORD0037,2025-02-20,North,Online,External SSD 1TB,Storage,3,6200,0.0,18600.0,14100,4500.0
+ORD0069,2025-02-20,North,Online,Business Laptop,Computers,4,58000,0.1,208800.0,186000,22800.0
+ORD0058,2025-02-23,South,Online,Webcam HD,Accessories,2,2100,0.05,3990.0,2900,1090.0
+ORD0106,2025-02-23,North,Retail,Laptop Stand,Accessories,2,950,0.05,1805.0,1080,725.0
+ORD0021,2025-02-26,East,Retail,Laptop Stand,Accessories,1,950,0.15,807.5,540,267.5
+ORD0217,2025-03-01,North,Online,Webcam HD,Accessories,1,2100,0.0,2100.0,1450,650.0
+ORD0044,2025-03-02,West,Retail,24-inch Monitor,Monitors,1,9800,0.0,9800.0,7400,2400.0
+ORD0040,2025-03-04,North,Online,Business Laptop,Computers,5,58000,0.15,246500.0,232500,14000.0
+ORD0130,2025-03-04,East,Partner,External HDD 2TB,Storage,3,4900,0.05,13965.0,10800,3165.0
+ORD0007,2025-03-05,West,Online,Headset,Accessories,2,1600,0.05,3040.0,1960,1080.0
+ORD0194,2025-03-05,South,Online,USB-C Hub,Accessories,1,1450,0.15,1232.5,900,332.5
+ORD0171,2025-03-10,North,Retail,External HDD 2TB,Storage,1,4900,0.15,4165.0,3600,565.0
+ORD0101,2025-03-12,Central,Online,Budget Laptop,Computers,2,38500,0.1,69300.0,62000,7300.0
+ORD0238,2025-03-13,East,Partner,Webcam HD,Accessories,3,2100,0.05,5985.0,4350,1635.0
+ORD0176,2025-03-15,North,Partner,Business Laptop,Computers,3,58000,0.15,147900.0,139500,8400.0
+ORD0079,2025-03-18,North,Online,Business Laptop,Computers,1,58000,0.15,49300.0,46500,2800.0
+ORD0051,2025-03-19,Central,Retail,Laptop Stand,Accessories,2,950,0.05,1805.0,1080,725.0
+ORD0122,2025-03-22,East,Online,Budget Laptop,Computers,4,38500,0.1,138600.0,124000,14600.0
+ORD0224,2025-03-23,Central,Retail,External SSD 1TB,Storage,1,6200,0.05,5890.0,4700,1190.0
+ORD0116,2025-03-25,West,Online,Headset,Accessories,4,1600,0.05,6080.0,3920,2160.0
+ORD0227,2025-03-26,North,Retail,27-inch Monitor,Monitors,1,14500,0.15,12325.0,11200,1125.0
+ORD0118,2025-03-28,West,Partner,External HDD 2TB,Storage,2,4900,0.05,9310.0,7200,2110.0
+ORD0167,2025-03-28,Central,Online,Business Laptop,Computers,3,58000,0.0,174000.0,139500,34500.0
+ORD0055,2025-03-29,East,Retail,Mechanical Keyboard,Accessories,5,1800,0.0,9000.0,5750,3250.0
+ORD0161,2025-03-30,North,Online,Laptop Stand,Accessories,5,950,0.0,4750.0,2700,2050.0
+ORD0190,2025-04-01,Central,Retail,Webcam HD,Accessories,1,2100,0.0,2100.0,1450,650.0
+ORD0103,2025-04-09,Central,Retail,Laptop Stand,Accessories,1,950,0.0,950.0,540,410.0
+ORD0081,2025-04-11,East,Online,External SSD 1TB,Storage,3,6200,0.0,18600.0,14100,4500.0
+ORD0095,2025-04-12,North,Retail,Mechanical Keyboard,Accessories,1,1800,0.05,1710.0,1150,560.0
+ORD0203,2025-04-12,West,Online,27-inch Monitor,Monitors,2,14500,0.0,29000.0,22400,6600.0
+ORD0138,2025-04-13,Central,Partner,27-inch Monitor,Monitors,2,14500,0.05,27550.0,22400,5150.0
+ORD0144,2025-04-14,Central,Retail,Laptop Stand,Accessories,3,950,0.05,2707.5,1620,1087.5
+ORD0094,2025-04-17,Central,Online,Budget Laptop,Computers,2,38500,0.1,69300.0,62000,7300.0
+ORD0191,2025-04-17,West,Retail,Headset,Accessories,1,1600,0.15,1360.0,980,380.0
+ORD0093,2025-04-19,Central,Retail,External HDD 2TB,Storage,1,4900,0.0,4900.0,3600,1300.0
+ORD0109,2025-04-19,North,Partner,Laptop Stand,Accessories,1,950,0.05,902.5,540,362.5
+ORD0139,2025-04-19,North,Retail,External SSD 1TB,Storage,1,6200,0.1,5580.0,4700,880.0
+ORD0201,2025-04-19,Central,Online,Webcam HD,Accessories,3,2100,0.15,5355.0,4350,1005.0
+ORD0059,2025-04-20,West,Retail,External SSD 1TB,Storage,4,6200,0.1,22320.0,18800,3520.0
+ORD0151,2025-04-21,East,Partner,Laptop Stand,Accessories,1,950,0.0,950.0,540,410.0
+ORD0092,2025-04-24,West,Retail,24-inch Monitor,Monitors,4,9800,0.05,37240.0,29600,7640.0
+ORD0209,2025-04-24,South,Online,External SSD 1TB,Storage,1,6200,0.1,5580.0,4700,880.0
+ORD0226,2025-04-27,East,Retail,Budget Laptop,Computers,2,38500,0.05,73150.0,62000,11150.0
+ORD0028,2025-04-28,East,Partner,Budget Laptop,Computers,1,38500,0.0,38500.0,31000,7500.0
+ORD0160,2025-05-02,North,Online,USB-C Hub,Accessories,1,1450,0.1,1305.0,900,405.0
+ORD0003,2025-05-08,East,Partner,Business Laptop,Computers,3,58000,0.1,156600.0,139500,17100.0
+ORD0071,2025-05-12,East,Retail,USB-C Hub,Accessories,1,1450,0.0,1450.0,900,550.0
+ORD0185,2025-05-14,South,Partner,External HDD 2TB,Storage,2,4900,0.15,8330.0,7200,1130.0
+ORD0231,2025-05-15,Central,Retail,External HDD 2TB,Storage,2,4900,0.15,8330.0,7200,1130.0
+ORD0025,2025-05-16,North,Partner,External HDD 2TB,Storage,1,4900,0.05,4655.0,3600,1055.0
+ORD0189,2025-05-16,Central,Retail,Wireless Mouse,Accessories,1,650,0.15,552.5,390,162.5
+ORD0219,2025-05-16,Central,Partner,Budget Laptop,Computers,1,38500,0.15,32725.0,31000,1725.0
+ORD0013,2025-05-17,Central,Partner,Mechanical Keyboard,Accessories,3,1800,0.0,5400.0,3450,1950.0
+ORD0149,2025-05-18,South,Partner,24-inch Monitor,Monitors,2,9800,0.0,19600.0,14800,4800.0
+ORD0210,2025-05-19,East,Online,Webcam HD,Accessories,4,2100,0.1,7560.0,5800,1760.0
+ORD0017,2025-05-20,East,Retail,Budget Laptop,Computers,2,38500,0.0,77000.0,62000,15000.0
+ORD0220,2025-05-23,East,Retail,27-inch Monitor,Monitors,2,14500,0.0,29000.0,22400,6600.0
+ORD0050,2025-05-25,South,Partner,Business Laptop,Computers,1,58000,0.0,58000.0,46500,11500.0
+ORD0207,2025-05-25,West,Partner,External HDD 2TB,Storage,4,4900,0.0,19600.0,14400,5200.0
+ORD0222,2025-05-27,South,Retail,External SSD 1TB,Storage,2,6200,0.0,12400.0,9400,3000.0
+ORD0126,2025-05-30,South,Partner,External SSD 1TB,Storage,1,6200,0.1,5580.0,4700,880.0
+ORD0197,2025-05-30,South,Retail,Business Laptop,Computers,2,58000,0.0,116000.0,93000,23000.0
+ORD0155,2025-06-02,South,Online,27-inch Monitor,Monitors,5,14500,0.05,68875.0,56000,12875.0
+ORD0142,2025-06-03,West,Partner,Wireless Mouse,Accessories,2,650,0.0,1300.0,780,520.0
+ORD0083,2025-06-08,East,Partner,Webcam HD,Accessories,1,2100,0.15,1785.0,1450,335.0
+ORD0119,2025-06-08,East,Online,Webcam HD,Accessories,1,2100,0.15,1785.0,1450,335.0
+ORD0023,2025-06-09,West,Online,27-inch Monitor,Monitors,3,14500,0.1,39150.0,33600,5550.0
+ORD0073,2025-06-09,Central,Online,Webcam HD,Accessories,2,2100,0.05,3990.0,2900,1090.0
+ORD0031,2025-06-10,East,Retail,24-inch Monitor,Monitors,1,9800,0.0,9800.0,7400,2400.0
+ORD0022,2025-06-11,North,Partner,Wireless Mouse,Accessories,1,650,0.1,585.0,390,195.0
+ORD0137,2025-06-11,East,Online,Mechanical Keyboard,Accessories,2,1800,0.15,3060.0,2300,760.0
+ORD0192,2025-06-11,Central,Partner,Wireless Mouse,Accessories,2,650,0.1,1170.0,780,390.0
+ORD0004,2025-06-12,South,Partner,Webcam HD,Accessories,4,2100,0.1,7560.0,5800,1760.0
+ORD0015,2025-06-13,Central,Retail,USB-C Hub,Accessories,1,1450,0.15,1232.5,900,332.5
+ORD0127,2025-06-14,East,Retail,27-inch Monitor,Monitors,1,14500,0.1,13050.0,11200,1850.0
+ORD0166,2025-06-14,North,Online,USB-C Hub,Accessories,3,1450,0.1,3915.0,2700,1215.0
+ORD0085,2025-06-17,North,Retail,External SSD 1TB,Storage,3,6200,0.1,16740.0,14100,2640.0
+ORD0104,2025-06-17,East,Retail,USB-C Hub,Accessories,2,1450,0.1,2610.0,1800,810.0
+ORD0120,2025-06-17,North,Online,Wireless Mouse,Accessories,1,650,0.05,617.5,390,227.5
+ORD0030,2025-06-18,South,Partner,External HDD 2TB,Storage,1,4900,0.15,4165.0,3600,565.0
+ORD0147,2025-06-19,North,Partner,Budget Laptop,Computers,2,38500,0.15,65450.0,62000,3450.0
+ORD0154,2025-06-20,South,Online,External HDD 2TB,Storage,1,4900,0.15,4165.0,3600,565.0
+ORD0016,2025-06-21,North,Retail,Wireless Mouse,Accessories,1,650,0.05,617.5,390,227.5
+ORD0129,2025-06-22,West,Retail,Wireless Mouse,Accessories,1,650,0.0,650.0,390,260.0
+ORD0168,2025-06-24,Central,Partner,External SSD 1TB,Storage,3,6200,0.0,18600.0,14100,4500.0
+ORD0184,2025-06-30,North,Partner,Wireless Mouse,Accessories,1,650,0.05,617.5,390,227.5
+ORD0032,2025-07-02,North,Partner,Budget Laptop,Computers,2,38500,0.15,65450.0,62000,3450.0
+ORD0121,2025-07-05,North,Retail,External HDD 2TB,Storage,1,4900,0.0,4900.0,3600,1300.0
+ORD0131,2025-07-06,North,Online,Headset,Accessories,1,1600,0.0,1600.0,980,620.0
+ORD0169,2025-07-08,North,Retail,24-inch Monitor,Monitors,1,9800,0.0,9800.0,7400,2400.0
+ORD0218,2025-07-08,Central,Retail,Business Laptop,Computers,3,58000,0.0,174000.0,139500,34500.0
+ORD0234,2025-07-09,North,Online,Webcam HD,Accessories,2,2100,0.0,4200.0,2900,1300.0
+ORD0077,2025-07-10,East,Online,Budget Laptop,Computers,2,38500,0.1,69300.0,62000,7300.0
+ORD0158,2025-07-10,South,Online,Business Laptop,Computers,2,58000,0.05,110200.0,93000,17200.0
+ORD0011,2025-07-11,South,Online,External HDD 2TB,Storage,3,4900,0.1,13230.0,10800,2430.0
+ORD0200,2025-07-13,East,Online,27-inch Monitor,Monitors,2,14500,0.0,29000.0,22400,6600.0
+ORD0195,2025-07-14,East,Online,External SSD 1TB,Storage,1,6200,0.0,6200.0,4700,1500.0
+ORD0115,2025-07-15,South,Retail,Webcam HD,Accessories,1,2100,0.05,1995.0,1450,545.0
+ORD0057,2025-07-16,South,Retail,24-inch Monitor,Monitors,4,9800,0.15,33320.0,29600,3720.0
+ORD0068,2025-07-17,North,Retail,Laptop Stand,Accessories,4,950,0.1,3420.0,2160,1260.0
+ORD0128,2025-07-18,West,Partner,Webcam HD,Accessories,1,2100,0.0,2100.0,1450,650.0
+ORD0080,2025-07-20,South,Partner,Mechanical Keyboard,Accessories,3,1800,0.1,4860.0,3450,1410.0
+ORD0027,2025-07-28,West,Online,External SSD 1TB,Storage,2,6200,0.0,12400.0,9400,3000.0
+ORD0009,2025-07-29,West,Retail,External SSD 1TB,Storage,4,6200,0.0,24800.0,18800,6000.0
+ORD0148,2025-07-29,North,Online,Budget Laptop,Computers,1,38500,0.0,38500.0,31000,7500.0
+ORD0183,2025-07-29,South,Retail,USB-C Hub,Accessories,3,1450,0.0,4350.0,2700,1650.0
+ORD0188,2025-07-31,North,Retail,USB-C Hub,Accessories,1,1450,0.1,1305.0,900,405.0
+ORD0063,2025-08-01,South,Online,Laptop Stand,Accessories,1,950,0.05,902.5,540,362.5
+ORD0113,2025-08-01,Central,Online,24-inch Monitor,Monitors,2,9800,0.1,17640.0,14800,2840.0
+ORD0164,2025-08-01,East,Retail,External HDD 2TB,Storage,3,4900,0.0,14700.0,10800,3900.0
+ORD0211,2025-08-01,South,Online,USB-C Hub,Accessories,1,1450,0.05,1377.5,900,477.5
+ORD0042,2025-08-02,East,Online,Business Laptop,Computers,4,58000,0.15,197200.0,186000,11200.0
+ORD0089,2025-08-03,North,Retail,Mechanical Keyboard,Accessories,1,1800,0.1,1620.0,1150,470.0
+ORD0239,2025-08-04,East,Online,External HDD 2TB,Storage,5,4900,0.1,22050.0,18000,4050.0
+ORD0062,2025-08-05,West,Online,External HDD 2TB,Storage,1,4900,0.05,4655.0,3600,1055.0
+ORD0221,2025-08-09,North,Partner,Business Laptop,Computers,1,58000,0.0,58000.0,46500,11500.0
+ORD0214,2025-08-12,East,Online,Wireless Mouse,Accessories,2,650,0.0,1300.0,780,520.0
+ORD0123,2025-08-14,South,Retail,Budget Laptop,Computers,5,38500,0.15,163625.0,155000,8625.0
+ORD0045,2025-08-15,West,Retail,Mechanical Keyboard,Accessories,1,1800,0.0,1800.0,1150,650.0
+ORD0223,2025-08-17,North,Partner,External SSD 1TB,Storage,1,6200,0.1,5580.0,4700,880.0
+ORD0216,2025-08-20,West,Retail,24-inch Monitor,Monitors,1,9800,0.1,8820.0,7400,1420.0
+ORD0180,2025-08-22,West,Online,Budget Laptop,Computers,2,38500,0.0,77000.0,62000,15000.0
+ORD0056,2025-08-25,East,Retail,24-inch Monitor,Monitors,1,9800,0.0,9800.0,7400,2400.0
+ORD0199,2025-08-25,West,Online,External SSD 1TB,Storage,4,6200,0.1,22320.0,18800,3520.0
+ORD0034,2025-08-26,Central,Partner,Budget Laptop,Computers,4,38500,0.0,154000.0,124000,30000.0
+ORD0036,2025-08-28,North,Retail,24-inch Monitor,Monitors,3,9800,0.0,29400.0,22200,7200.0
+ORD0038,2025-08-30,South,Online,Headset,Accessories,4,1600,0.15,5440.0,3920,1520.0
+ORD0172,2025-08-30,North,Online,External HDD 2TB,Storage,1,4900,0.05,4655.0,3600,1055.0
+ORD0035,2025-09-01,South,Online,Budget Laptop,Computers,1,38500,0.05,36575.0,31000,5575.0
+ORD0206,2025-09-01,East,Partner,Webcam HD,Accessories,1,2100,0.0,2100.0,1450,650.0
+ORD0076,2025-09-04,North,Retail,Laptop Stand,Accessories,3,950,0.0,2850.0,1620,1230.0
+ORD0026,2025-09-07,South,Partner,External HDD 2TB,Storage,2,4900,0.1,8820.0,7200,1620.0
+ORD0228,2025-09-08,East,Retail,External HDD 2TB,Storage,3,4900,0.05,13965.0,10800,3165.0
+ORD0170,2025-09-09,East,Online,External SSD 1TB,Storage,2,6200,0.0,12400.0,9400,3000.0
+ORD0233,2025-09-09,West,Online,Wireless Mouse,Accessories,2,650,0.0,1300.0,780,520.0
+ORD0145,2025-09-10,Central,Retail,Wireless Mouse,Accessories,1,650,0.1,585.0,390,195.0
+ORD0070,2025-09-12,South,Online,Wireless Mouse,Accessories,1,650,0.0,650.0,390,260.0
+ORD0052,2025-09-14,West,Retail,USB-C Hub,Accessories,1,1450,0.0,1450.0,900,550.0
+ORD0065,2025-09-14,West,Partner,USB-C Hub,Accessories,5,1450,0.1,6525.0,4500,2025.0
+ORD0053,2025-09-15,East,Retail,Laptop Stand,Accessories,2,950,0.0,1900.0,1080,820.0
+ORD0008,2025-09-17,South,Partner,Budget Laptop,Computers,2,38500,0.15,65450.0,62000,3450.0
+ORD0111,2025-09-17,Central,Partner,USB-C Hub,Accessories,1,1450,0.15,1232.5,900,332.5
+ORD0108,2025-09-18,South,Partner,Business Laptop,Computers,1,58000,0.05,55100.0,46500,8600.0
+ORD0163,2025-09-19,South,Retail,USB-C Hub,Accessories,1,1450,0.0,1450.0,900,550.0
+ORD0090,2025-09-21,Central,Online,Business Laptop,Computers,2,58000,0.05,110200.0,93000,17200.0
+ORD0107,2025-09-22,West,Retail,Headset,Accessories,2,1600,0.05,3040.0,1960,1080.0
+ORD0162,2025-09-22,South,Online,Business Laptop,Computers,1,58000,0.0,58000.0,46500,11500.0
+ORD0001,2025-09-25,East,Online,Business Laptop,Computers,3,58000,0.05,165300.0,139500,25800.0
+ORD0048,2025-09-28,South,Partner,Business Laptop,Computers,3,58000,0.15,147900.0,139500,8400.0
+ORD0006,2025-09-30,East,Partner,External SSD 1TB,Storage,3,6200,0.0,18600.0,14100,4500.0
+ORD0014,2025-09-30,East,Retail,External SSD 1TB,Storage,4,6200,0.05,23560.0,18800,4760.0
+ORD0135,2025-09-30,North,Partner,Wireless Mouse,Accessories,1,650,0.05,617.5,390,227.5
+ORD0141,2025-09-30,Central,Online,Business Laptop,Computers,2,58000,0.0,116000.0,93000,23000.0
+ORD0041,2025-10-03,Central,Partner,27-inch Monitor,Monitors,1,14500,0.05,13775.0,11200,2575.0
+ORD0204,2025-10-04,West,Online,Laptop Stand,Accessories,2,950,0.15,1615.0,1080,535.0
+ORD0024,2025-10-05,South,Partner,Mechanical Keyboard,Accessories,2,1800,0.0,3600.0,2300,1300.0
+ORD0098,2025-10-05,South,Retail,24-inch Monitor,Monitors,3,9800,0.05,27930.0,22200,5730.0
+ORD0012,2025-10-13,East,Online,Laptop Stand,Accessories,5,950,0.15,4037.5,2700,1337.5
+ORD0049,2025-10-14,East,Retail,USB-C Hub,Accessories,1,1450,0.15,1232.5,900,332.5
+ORD0097,2025-10-14,North,Partner,External SSD 1TB,Storage,5,6200,0.0,31000.0,23500,7500.0
+ORD0019,2025-10-16,West,Partner,External SSD 1TB,Storage,3,6200,0.1,16740.0,14100,2640.0
+ORD0091,2025-10-16,South,Partner,External SSD 1TB,Storage,3,6200,0.15,15810.0,14100,1710.0
+ORD0117,2025-10-16,West,Online,Budget Laptop,Computers,5,38500,0.05,182875.0,155000,27875.0
+ORD0010,2025-10-20,North,Retail,Wireless Mouse,Accessories,4,650,0.05,2470.0,1560,910.0
+ORD0047,2025-10-20,West,Retail,USB-C Hub,Accessories,3,1450,0.0,4350.0,2700,1650.0
+ORD0100,2025-10-20,South,Online,Budget Laptop,Computers,4,38500,0.0,154000.0,124000,30000.0
+ORD0178,2025-10-20,South,Partner,Budget Laptop,Computers,3,38500,0.15,98175.0,93000,5175.0
+ORD0150,2025-10-22,East,Partner,External HDD 2TB,Storage,1,4900,0.0,4900.0,3600,1300.0
+ORD0187,2025-10-23,West,Retail,External SSD 1TB,Storage,4,6200,0.05,23560.0,18800,4760.0
+ORD0136,2025-10-26,West,Online,Headset,Accessories,1,1600,0.0,1600.0,980,620.0
+ORD0146,2025-10-26,North,Partner,Headset,Accessories,3,1600,0.0,4800.0,2940,1860.0
+ORD0099,2025-10-27,South,Retail,External HDD 2TB,Storage,3,4900,0.15,12495.0,10800,1695.0
+ORD0020,2025-10-30,South,Partner,Business Laptop,Computers,1,58000,0.05,55100.0,46500,8600.0
+ORD0087,2025-10-30,East,Partner,Webcam HD,Accessories,1,2100,0.0,2100.0,1450,650.0
+ORD0082,2025-10-31,West,Online,Mechanical Keyboard,Accessories,3,1800,0.0,5400.0,3450,1950.0
+ORD0212,2025-11-03,East,Partner,27-inch Monitor,Monitors,2,14500,0.1,26100.0,22400,3700.0
+ORD0156,2025-11-06,South,Retail,Business Laptop,Computers,2,58000,0.05,110200.0,93000,17200.0
+ORD0198,2025-11-12,North,Retail,Webcam HD,Accessories,1,2100,0.1,1890.0,1450,440.0
+ORD0153,2025-11-18,West,Retail,Budget Laptop,Computers,4,38500,0.15,130900.0,124000,6900.0
+ORD0236,2025-11-18,West,Partner,Wireless Mouse,Accessories,2,650,0.1,1170.0,780,390.0
+ORD0064,2025-11-21,East,Partner,Business Laptop,Computers,1,58000,0.0,58000.0,46500,11500.0
+ORD0205,2025-11-24,South,Online,24-inch Monitor,Monitors,1,9800,0.1,8820.0,7400,1420.0
+ORD0235,2025-11-25,West,Partner,27-inch Monitor,Monitors,1,14500,0.1,13050.0,11200,1850.0
+ORD0134,2025-11-26,East,Partner,27-inch Monitor,Monitors,1,14500,0.15,12325.0,11200,1125.0
+ORD0074,2025-11-28,Central,Partner,Wireless Mouse,Accessories,3,650,0.05,1852.5,1170,682.5
+ORD0133,2025-11-29,South,Partner,Headset,Accessories,1,1600,0.15,1360.0,980,380.0
+ORD0143,2025-11-29,North,Online,27-inch Monitor,Monitors,1,14500,0.0,14500.0,11200,3300.0
+ORD0181,2025-12-01,East,Online,External HDD 2TB,Storage,3,4900,0.05,13965.0,10800,3165.0
+ORD0225,2025-12-04,Central,Partner,External HDD 2TB,Storage,5,4900,0.05,23275.0,18000,5275.0
+ORD0152,2025-12-07,North,Online,USB-C Hub,Accessories,4,1450,0.05,5510.0,3600,1910.0
+ORD0140,2025-12-09,Central,Partner,Headset,Accessories,4,1600,0.05,6080.0,3920,2160.0
+ORD0229,2025-12-09,North,Retail,Laptop Stand,Accessories,2,950,0.05,1805.0,1080,725.0
+ORD0182,2025-12-13,Central,Online,Wireless Mouse,Accessories,1,650,0.0,650.0,390,260.0
+ORD0046,2025-12-17,South,Partner,Laptop Stand,Accessories,2,950,0.0,1900.0,1080,820.0
+ORD0067,2025-12-17,South,Retail,Business Laptop,Computers,2,58000,0.05,110200.0,93000,17200.0
+ORD0177,2025-12-18,South,Retail,24-inch Monitor,Monitors,3,9800,0.05,27930.0,22200,5730.0
+ORD0213,2025-12-25,Central,Retail,Webcam HD,Accessories,5,2100,0.0,10500.0,7250,3250.0
+ORD0002,2025-12-28,North,Online,Headset,Accessories,2,1600,0.05,3040.0,1960,1080.0
+ORD0186,2025-12-29,North,Partner,Headset,Accessories,1,1600,0.0,1600.0,980,620.0
+ORD0105,2025-12-30,North,Online,Headset,Accessories,4,1600,0.1,5760.0,3920,1840.0
+ORD0179,2025-12-30,South,Retail,Laptop Stand,Accessories,1,950,0.0,950.0,540,410.0
+ORD0096,2025-12-31,North,Partner,24-inch Monitor,Monitors,3,9800,0.1,26460.0,22200,4260.0
